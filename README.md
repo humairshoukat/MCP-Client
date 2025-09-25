@@ -61,7 +61,8 @@ To use this client with your custom MCP server:
             }
         }
    ```
-2. Use the `http://localhost:5000/chat` endpoint to chat with the AI Agent which has access to the LLM and MCP Tools.
+2. Find the api docs at `http://localhost:5000/docs`
+3. Use the `http://localhost:5000/chat` endpoint to chat with the AI Agent which that has access to the LLM and MCP Tools.
 
 ## API Keys Required
 
